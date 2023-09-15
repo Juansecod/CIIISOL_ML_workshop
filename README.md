@@ -8,3 +8,4 @@ This workshop is composed of two main parts:
 
 * Data analysis and datasets preparation: https://colab.research.google.com/drive/1o5kQ-eGJxonlqGkpzVwTAkqayUqxFKzn?usp=share_link
 * Supervised machine learning for crash severity prediction: https://colab.research.google.com/drive/1fNNZ-Fgrm3q9lNErq_7yoMXmeyibGAgE?usp=share_link
+# Map: https://juansecod.github.io/CIIISOL_ML_workshop/results/Map_Accidents_Medellin.html
